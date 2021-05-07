@@ -38,13 +38,8 @@ DOCUMENTAÇÃO
         Os sistemas testados não atenderam às expectativas para o negócio de produção de tapetes.
 
     - Quais problemas existem que precisam de mais atenção?
-<<<<<<< HEAD
         A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de cálculo
             e ter um sistema que calcule única e exclusivamente o que precisamos representa um aumento na eficiência
-=======
-        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de calculo
-            e ter um sistema que calcule unica e exclusivamente o que precisamos representa um aumento na eficiencia
->>>>>>> 944b5bed0f577231d75e69fe97ff959d423453b1
             durante os atendimentos dos nossos clientes.
 
 	- O que vocês desejam?
