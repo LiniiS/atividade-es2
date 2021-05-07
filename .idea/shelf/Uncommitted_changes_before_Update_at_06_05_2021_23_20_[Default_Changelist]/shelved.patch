@@ -1,0 +1,83 @@
+Index: AtividadeGit/.gitignore
+===================================================================
+diff --git a/AtividadeGit/.gitignore b/AtividadeGit/.gitignore
+deleted file mode 100644
+--- a/AtividadeGit/.gitignore	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
++++ /dev/null	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
+@@ -1,1 +0,0 @@
+-/bin/
+Index: AtividadeGit/.project
+===================================================================
+diff --git a/AtividadeGit/.project b/AtividadeGit/.project
+deleted file mode 100644
+--- a/AtividadeGit/.project	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
++++ /dev/null	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
+@@ -1,17 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<projectDescription>
+-	<name>AtividadeGit</name>
+-	<comment></comment>
+-	<projects>
+-	</projects>
+-	<buildSpec>
+-		<buildCommand>
+-			<name>org.eclipse.jdt.core.javabuilder</name>
+-			<arguments>
+-			</arguments>
+-		</buildCommand>
+-	</buildSpec>
+-	<natures>
+-		<nature>org.eclipse.jdt.core.javanature</nature>
+-	</natures>
+-</projectDescription>
+Index: AtividadeGit/.classpath
+===================================================================
+diff --git a/AtividadeGit/.classpath b/AtividadeGit/.classpath
+deleted file mode 100644
+--- a/AtividadeGit/.classpath	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
++++ /dev/null	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<classpath>
+-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+-		<attributes>
+-			<attribute name="module" value="true"/>
+-		</attributes>
+-	</classpathentry>
+-	<classpathentry kind="src" path="src"/>
+-	<classpathentry kind="output" path="bin"/>
+-</classpath>
+Index: AtividadeGit/src/br/com/fatec/engsoft/documentacao/DocumentoDeNegocios
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Atividade Colaborativa Git - Engenharia de Software 2\r\nObjetivo: escrever a documentação (negócio/requisitos) e implementar o código de um sistema\r\n\t      que permite o cálculo da área e perímetro de circunferências (área PI.R^2. perímetro 2.PI.R)\r\n\t\t  e retângulos (área BASE.ALTURA. perímetro 2.(BASE+ALTURA)).\r\n\r\n- Negócio\r\n\r\n\r\n- Atividades de negócio\r\n\r\n\r\n- Problema/Oportunidade\r\n    * A empresa apresenta dificuldade em contabilizar a metragem de material utilizado em seus produtos, é preciso\r\n        calcular a área total que o produto (tapete) vai ocupar no ambiente bem como o seu tamanho seja  em\r\n        largura x comprimento para tapetes no modelo retangular quanto em diâmetro para os tapetes redondos.\r\n\r\n\t- Por que não utilizar uma calculadora padrão ?\r\n        As calculadoras existentes não são intuitivas, pede-se que o sistema seja amigável para que nossos funcionários\r\n            possam manipular facilmente, inserindo apenas as medidas que nossos clientes possuem.\r\n\r\n    - Já tentaram utilizar um sistema alternativo ?\r\n        Os sistemas testados não atenderam às expectativas para o negócio de produção de tapetes.\r\n\r\n    - Quais problemas existem que precisam de mais atenção?\r\n        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de calculo\r\n            e ter um sistema que calcule unica e exclusivamente o que precisamos representa um aumento na eficiencia\r\n            durante os atendimentos dos nossos clientes.\r\n\r\n\t- O que vocês desejam?\r\n\t    Desejamos um sistema simples e objetivo na qual o funcionário possa inserir os dados, em metros, repassados\r\n\t    pelos clientes e de imediato já receba qual é a area total que o tapete vai cobrir, seja redondo ou retangular.\r\n\r\n\r\n- Stakeholders\r\n\r\n\r\n- Atividades de Negócio\r\n\r\n\r\n- Regras de negócio\r\n\t* regra 1\r\n\t* regra 2\r\n\t* regra 3\r\n\r\n- Glossário\r\n\r\n\r\n- Requisitos\r\n\r\n\tHU001 -\r\n\r\n\tHU002 -\r\n\r\n\tHU003 -\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/AtividadeGit/src/br/com/fatec/engsoft/documentacao/DocumentoDeNegocios b/AtividadeGit/src/br/com/fatec/engsoft/documentacao/DocumentoDeNegocios
+--- a/AtividadeGit/src/br/com/fatec/engsoft/documentacao/DocumentoDeNegocios	(revision 1e853c3e43377bf789a78885b92c0c9643c502fe)
++++ b/AtividadeGit/src/br/com/fatec/engsoft/documentacao/DocumentoDeNegocios	(date 1620353527539)
+@@ -21,13 +21,18 @@
+     - Já tentaram utilizar um sistema alternativo ?
+         Os sistemas testados não atenderam às expectativas para o negócio de produção de tapetes.
+ 
++    - Quais são as funcionalidades ausentes?
++        Não havia funcionalidades ausentes, as calculadoras padrão e sistemas disponíveis no mercado possuem as
++        as funcionalidades que desejamos mas vai além do necessário e para fins de praticidade e agilidade no nosso
++        atendimento com o cliente, desejamos algo mais objetivo e direcionado ao ramo dos negócios.
++
+     - Quais problemas existem que precisam de mais atenção?
+-        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de calculo
+-            e ter um sistema que calcule unica e exclusivamente o que precisamos representa um aumento na eficiencia
++        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de cálculo
++            e ter um sistema que calcule única e exclusivamente o que precisamos representa um aumento na eficiencia
+             durante os atendimentos dos nossos clientes.
+ 
+ 	- O que vocês desejam?
+-	    Desejamos um sistema simples e objetivo na qual o funcionário possa inserir os dados, em metros, repassados
++	    Desejamos um sistema simples e objetivo no qual o funcionário possa inserir os dados, em metros, repassados
+ 	    pelos clientes e de imediato já receba qual é a area total que o tapete vai cobrir, seja redondo ou retangular.
+ 
+ 
+diff --git a/AtividadeGit/src/br/com/fatec/engsoft/documentacao/Documento2 b/AtividadeGit/src/br/com/fatec/engsoft/documentacao/Documento2
+deleted file mode 100644
