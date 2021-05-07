@@ -109,5 +109,8 @@ A área do tapete e o material utilizado na elaboração do mesmo são necessár
 Enquanto eu e meu cliente discutimos um projeto, é comum que seja alterado por diversas vezes o material.
 A substituição deve ser simples e facilmente alterada.
 	
-	HU003 -
+	HU003 - ANALISAR ATENDIMENTO AO CLIENTE
+	    Eu, como proprietário, desejo oferecer um sistema simples e de fácil manuseio aos funcionários para que se possa
+	    rapidamente obter as informações de custos da peça desejada pelo cliente através dos dados fornecidos pelos
+	    clientes acerca das medidas do produto final, melhorando assim a eficiência no atendimento.
 
