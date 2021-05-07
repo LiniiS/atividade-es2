@@ -21,8 +21,8 @@ DOCUMENTAÇÃO
 - Atividades de negócio
     - Criar modelos exclusivos de tapetes:
         * Cortar a matéria prima a partir da metragem desejada pelo cliente, seguindo os designs desejados.
-        * Costurar diferentes tamanhos de matéria prima para obter uma peça única que atenda a área desejada pelo cliente.
-        * Cortar e montar coleções a partir das medidas solicitadas pelo cliente.
+        * Costurar diferentes tamanhos de matéria prima para obter uma peça única que atenda a área desejada pelo cliente
+        * Cortar e montar coleções a partir das medidas solicitadas pelo cliente
         * Criar coleções extras com matéria prima residual de outras coleções.
 
 - Problema/Oportunidade
@@ -55,6 +55,11 @@ DOCUMENTAÇÃO
 	- Clientes: Contratantes da empresa, usualmente os clientes levam uma ideia ou um modelo da peça.
 	- Fornecedores: São os fornecedores do material ou insumos os quais serão confeccionados os tapetes.
 
+<<<<<<< HEAD
+=======
+- Atividades de Negócio
+
+>>>>>>> parent of 869ecf9... Glossário atualizado
 
 - Regras de negócio
 	* RN0001 - CÁLCULO DE ÁREA
@@ -85,6 +90,7 @@ DOCUMENTAÇÃO
 		
 
 - Glossário
+<<<<<<< HEAD
     * Modelos e Designs
     - Passadeiras: tapetes retangulares, geralmente utilizados em corredores.
     - Bergamota: parte central de um tapete oval ou circular.
@@ -98,6 +104,9 @@ DOCUMENTAÇÃO
     - Revestimento: material utilizado no verso do tapete (parte em contato com o chão).
     - Trama: componente da tecelagem no processo de criação do tecido. Tramas apertadas indicam menor espaçamento
             entre os fios longitudinais e tramas menos apertadas permitem maior espaçamento entre os fios.
+=======
+
+>>>>>>> parent of 869ecf9... Glossário atualizado
 
 - Requisitos
 
