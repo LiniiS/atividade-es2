@@ -1,11 +1,44 @@
-Negocios
+Atividade Colaborativa Git - Engenharia de Software 2
+Objetivo: escrever a documentação (negócio/requisitos) e implementar o código de um sistema
+	      que permite o cálculo da área e perímetro de circunferências (área PI.R^2. perímetro 2.PI.R)
+		  e retângulos (área BASE.ALTURA. perímetro 2.(BASE+ALTURA)).
+
+- Negócio
+
+
+- Atividades de negócio
 
 
 
-modificação
+
+- Problema/Oportunidade
 
 
-MODIFICAÇÃO 2
+	- Por que não utilizar uma calculadora/sistema já existente?
 
 
-Modificação 3
+	- O que vocês desejam?
+
+
+- Stakeholders
+
+
+- Atividades de Negócio
+
+
+- Regras de negócio
+	* regra 1
+	* regra 2
+	* regra 3
+
+- Glossário
+
+
+- Requisitos
+
+	HU001 -
+
+	HU002 -
+
+	HU003 -
+
