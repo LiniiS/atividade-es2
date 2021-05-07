@@ -45,7 +45,7 @@ DOCUMENTAÇÃO
 
     - Quais problemas existem que precisam de mais atenção?
         A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de cálculo
-            e ter um sistema que calcule única e exclusivamente o que precisamos representa um aumento na eficiencia
+            e ter um sistema que calcule única e exclusivamente o que precisamos representa um aumento na eficiência
             durante os atendimentos dos nossos clientes.
 
 	- O que vocês desejam?
@@ -67,19 +67,21 @@ DOCUMENTAÇÃO
 		- Tapetes Circulares
 		Calcula-se a área de tapetes circulares através da fórmula:
 		área = PI * R^2
-		onde PI é a constante de valor aproximado 3,1415926535
-			 R é o raio da circunferência que determina o tapete nesse formato (em metros)
+		onde,
+			PI é a constante de valor aproximado 3,1415926535
+			R é o raio da circunferência que determina o tapete nesse formato (em metros)
 		
 		- Tapetes Retangulares
 		Calcula-se a área de tapetes retangulares através da fórmula:
 		área = base * altura
-		onde base é a medida do comprimento do tapete (em metros)
-			 altura é a medida da altura do tapete (em metros)
+		onde,
+			base é a medida do comprimento do tapete (em metros)
+			altura é a medida da altura do tapete (em metros)
 	
 
 	* RN0002 - TABELA DE PREÇO(R$/m2) EM FUNÇÃO DO MATERIAL UTILIZADO
 		Material				Valor (R$/m2)
-		Tear Nacional			  210,00
+		Tear Nacional			  	  210,00
 		Dhurie					  700,00
 		Vinil					  425,00
 		Náilon					  550,00
@@ -87,7 +89,6 @@ DOCUMENTAÇÃO
 		Shaggy					  600,00
 		Pele					1.400,00
 		
-
 
 - Glossário
 
