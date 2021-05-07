@@ -14,8 +14,8 @@ DOCUMENTAÇÃO
 
 - Negócio
 	A empresa BR Carpet é uma empresa de design de tapetes. A empresa atua no design e desenvolvimento de tapetes.
-    Além das peças tradicionalmente desenhadas nas coleções, a empresa também faz modelos exclusivos, definidos por um design
-    para atender as necessidades de um cliente ou, ainda, sob encomenda, na confecção de modelos definidos pelo cliente.
+    Além das peças tradicionalmente desenhadas nas coleções, a empresa também faz modelos exclusivos, definidos por um design para atender as
+    necessidades de um cliente ou, ainda, sob encomenda, na confecção de modelos definidos pelo cliente.
 
 
 - Atividades de negócio
@@ -24,7 +24,6 @@ DOCUMENTAÇÃO
         * Costurar diferentes tamanhos de matéria prima para obter uma peça única que atenda a área desejada pelo cliente.
         * Cortar e montar coleções a partir das medidas solicitadas pelo cliente.
         * Criar coleções extras com matéria prima residual de outras coleções.
-
 
 - Problema/Oportunidade
     * A empresa apresenta dificuldade em contabilizar a metragem de material utilizado em seus produtos, é preciso
@@ -38,18 +37,13 @@ DOCUMENTAÇÃO
     - Já tentaram utilizar um sistema alternativo ?
         Os sistemas testados não atenderam às expectativas para o negócio de produção de tapetes.
 
-    - Quais são as funcionalidades ausentes?
-        Não havia funcionalidades ausentes, as calculadoras padrão e sistemas disponíveis no mercado possuem as
-        as funcionalidades que desejamos mas vai além do necessário e para fins de praticidade e agilidade no nosso
-        atendimento com o cliente, desejamos algo mais objetivo e direcionado ao ramo dos negócios.
-
     - Quais problemas existem que precisam de mais atenção?
-        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de cálculo
-            e ter um sistema que calcule única e exclusivamente o que precisamos representa um aumento na eficiencia
+        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de calculo
+            e ter um sistema que calcule unica e exclusivamente o que precisamos representa um aumento na eficiencia
             durante os atendimentos dos nossos clientes.
 
 	- O que vocês desejam?
-	    Desejamos um sistema simples e objetivo no qual o funcionário possa inserir os dados, em metros, repassados
+	    Desejamos um sistema simples e objetivo na qual o funcionário possa inserir os dados, em metros, repassados
 	    pelos clientes e de imediato já receba qual é a area total que o tapete vai cobrir, seja redondo ou retangular.
 
 
@@ -60,8 +54,6 @@ DOCUMENTAÇÃO
 				 Em alguns casos, responsáveis pela definição do desenho junto ao cliente.
 	- Clientes: Contratantes da empresa, usualmente os clientes levam uma ideia ou um modelo da peça.
 	- Fornecedores: São os fornecedores do material ou insumos os quais serão confeccionados os tapetes.
-
-
 
 
 - Regras de negócio
