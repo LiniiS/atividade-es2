@@ -55,11 +55,6 @@ DOCUMENTAÇÃO
 	- Clientes: Contratantes da empresa, usualmente os clientes levam uma ideia ou um modelo da peça.
 	- Fornecedores: São os fornecedores do material ou insumos os quais serão confeccionados os tapetes.
 
-<<<<<<< HEAD
-=======
-- Atividades de Negócio
-
->>>>>>> parent of 869ecf9... Glossário atualizado
 
 - Regras de negócio
 	* RN0001 - CÁLCULO DE ÁREA
@@ -80,7 +75,7 @@ DOCUMENTAÇÃO
 
 	* RN0002 - TABELA DE PREÇO(R$/m2) EM FUNÇÃO DO MATERIAL UTILIZADO
 		Material				Valor (R$/m2)
-		Tear Nacional			  	  210,00
+		Tear Nacional			  210,00
 		Dhurie					  700,00
 		Vinil					  425,00
 		Náilon					  550,00
@@ -90,7 +85,6 @@ DOCUMENTAÇÃO
 		
 
 - Glossário
-<<<<<<< HEAD
     * Modelos e Designs
     - Passadeiras: tapetes retangulares, geralmente utilizados em corredores.
     - Bergamota: parte central de um tapete oval ou circular.
@@ -104,16 +98,16 @@ DOCUMENTAÇÃO
     - Revestimento: material utilizado no verso do tapete (parte em contato com o chão).
     - Trama: componente da tecelagem no processo de criação do tecido. Tramas apertadas indicam menor espaçamento
             entre os fios longitudinais e tramas menos apertadas permitem maior espaçamento entre os fios.
-=======
-
->>>>>>> parent of 869ecf9... Glossário atualizado
 
 - Requisitos
+	HU001 - CALCULAR VALOR DA PEÇA
+		Eu, como funcionário e designer de tapete, gostaria de calcular com precisão e velocidade a área do tapete esboçado ou desejado pelo meu cliente.
+A área do tapete e o material utilizado na elaboração do mesmo são necessários para determinar o valor final do produto.
 
-	HU001 - CALCULAR VALOR
-
-
-	HU002 - CORTAR A MATÉRIA PRIMA
-
+	HU002 - SELECIONAR FORMATO E MATERIAL
+		Eu, como funcionário e designer de tapete, gostaria de facilmente selecionar ou trocar de material selecionado no cálculo do valor do produto.
+Enquanto eu e meu cliente discutimos um projeto, é comum que seja alterado por diversas vezes o material.
+A substituição deve ser simples e facilmente alterada.
+	
 	HU003 -
 
