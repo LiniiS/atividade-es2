@@ -61,13 +61,32 @@ DOCUMENTAÇÃO
 	- Clientes: Contratantes da empresa, usualmente os clientes levam uma ideia ou um modelo da peça.
 	- Fornecedores: São os fornecedores do material ou insumos os quais serão confeccionados os tapetes.
 
-- Atividades de Negócio
-
 
 - Regras de negócio
-	* regra 1
-	* regra 2
-	* regra 3
+	* RN0001 - CÁLCULO DE ÁREA
+		- Tapetes Circulares
+		Calcula-se a área de tapetes circulares através da fórmula:
+		área = PI * R^2
+		onde PI é a constante de valor aproximado 3,1415926535
+			 R é o raio da circunferência que determina o tapete nesse formato (em metros)
+		
+		- Tapetes Retangulares
+		Calcula-se a área de tapetes retangulares através da fórmula:
+		área = base * altura
+		onde base é a medida do comprimento do tapete (em metros)
+			 altura é a medida da altura do tapete (em metros)
+	
+
+	* RN0002 - TABELA DE PREÇO(R$/m2) EM FUNÇÃO DO MATERIAL UTILIZADO
+		Material				Valor (R$/m2)
+		Tear Nacional			  210,00
+		Dhurie					  700,00
+		Vinil					  425,00
+		Náilon					  550,00
+		Rústico					  300,00
+		Shaggy					  600,00
+		Pele					1.400,00
+		
 
 - Glossário
 
