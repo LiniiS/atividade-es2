@@ -21,8 +21,8 @@ DOCUMENTAÇÃO
 - Atividades de negócio
     - Criar modelos exclusivos de tapetes:
         * Cortar a matéria prima a partir da metragem desejada pelo cliente, seguindo os designs desejados.
-        * Costurar diferentes tamanhos de matéria prima para obter uma peça única que atenda a área desejada pelo cliente
-        * Cortar e montar coleções a partir das medidas solicitadas pelo cliente
+        * Costurar diferentes tamanhos de matéria prima para obter uma peça única que atenda a área desejada pelo cliente.
+        * Cortar e montar coleções a partir das medidas solicitadas pelo cliente.
         * Criar coleções extras com matéria prima residual de outras coleções.
 
 
@@ -61,7 +61,7 @@ DOCUMENTAÇÃO
 	- Clientes: Contratantes da empresa, usualmente os clientes levam uma ideia ou um modelo da peça.
 	- Fornecedores: São os fornecedores do material ou insumos os quais serão confeccionados os tapetes.
 
-- Atividades de Negócio
+
 
 
 - Regras de negócio
@@ -70,7 +70,9 @@ DOCUMENTAÇÃO
 	* regra 3
 
 - Glossário
-
+    - Passadeiras: tapetes retangulares, geralmente utilizados em corredores.
+    - Sisal: fibra biodegradável, natural utilizada na confecção da matéria prima dos tapetes.
+    - Revestimento: material utilizado no verso do tapete (parte em contato com o chão).
 
 - Requisitos
 
