@@ -20,12 +20,25 @@ Além das peças tradicionalmente desenhadas nas coleções, a empresa também f
 
 
 - Problema/Oportunidade
+    * A empresa apresenta dificuldade em contabilizar a metragem de material utilizado em seus produtos, é preciso
+        calcular a área total que o produto (tapete) vai ocupar no ambiente bem como o seu tamanho seja  em
+        largura x comprimento para tapetes no modelo retangular quanto em diâmetro para os tapetes redondos.
 
+	- Por que não utilizar uma calculadora padrão ?
+        As calculadoras existentes não são intuitivas, pede-se que o sistema seja amigável para que nossos funcionários
+            possam manipular facilmente, inserindo apenas as medidas que nossos clientes possuem.
 
-	- Por que não utilizar uma calculadora/sistema já existente?
+    - Já tentaram utilizar um sistema alternativo ?
+        Os sistemas testados não atenderam às expectativas para o negócio de produção de tapetes.
 
+    - Quais problemas existem que precisam de mais atenção?
+        A simplicidade para a entrada de dados é essencial, as calculadoras comuns apresentam as funções padrão de calculo
+            e ter um sistema que calcule unica e exclusivamente o que precisamos representa um aumento na eficiencia
+            durante os atendimentos dos nossos clientes.
 
 	- O que vocês desejam?
+	    Desejamos um sistema simples e objetivo na qual o funcionário possa inserir os dados, em metros, repassados
+	    pelos clientes e de imediato já receba qual é a area total que o tapete vai cobrir, seja redondo ou retangular.
 
 
 - Stakeholders
