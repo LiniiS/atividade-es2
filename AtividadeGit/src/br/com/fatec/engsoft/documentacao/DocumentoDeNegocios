@@ -1,14 +1,23 @@
-Atividade Colaborativa Git - Engenharia de Software 2
-Objetivo: escrever a documentação (negócio/requisitos) e implementar o código de um sistema
+FATEC MOGI DAS CRUZES
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, 3º semestre - Tarde
+ENGENHARIA DE SOFTWARE II - Profº Leandro Luque
+
+Atividade Colaborativa Git
+Objetivo: Escrever a documentação (negócio/requisitos) e implementar o código de um sistema
 	      que permite o cálculo da área e perímetro de circunferências (área PI.R^2. perímetro 2.PI.R)
 		  e retângulos (área BASE.ALTURA. perímetro 2.(BASE+ALTURA)).
 
+Alunos: Aline dos Santos
+		Patrick Tobias Valente
+
+DOCUMENTAÇÃO
 - Negócio
+	A empresa BR Carpet é uma empresa de design de tapetes. A empresa atua no design e desenvolvimento de tapetes.
+Além das peças tradicionalmente desenhadas nas coleções, a empresa também faz modelos exclusivos, definidos por um
+design para atender as necessidades de um cliente ou, ainda, sob encomenda, na confecção de modelos definidos pelo cliente.
 
 
 - Atividades de negócio
-
-
 
 
 - Problema/Oportunidade
